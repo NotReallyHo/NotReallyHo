@@ -1,6 +1,6 @@
 Hiyo, I'm Aby.
 I'm literally just starting out with the intent of being a software developer.
-Please take care of me.
+Please take good care of me.
 
 <!---
 NotReallyHo/NotReallyHo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
